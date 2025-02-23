@@ -1,0 +1,11 @@
+ID,Age,Weight,Height,Gender,Exercise_Level
+1,23,160,5.8,Male,High
+2,30,180,5.9,Female,Low
+3,25,175,6.0,Male,Medium
+4,28,150,5.7,Female,High
+5,35,190,6.1,Male,Low
+6,40,170,5.6,Female,Medium
+7,27,165,5.7,Male,High
+8,33,185,6.0,Female,Medium
+9,29,155,5.6,Male,Low
+10,31,195,6.2,Female,High
